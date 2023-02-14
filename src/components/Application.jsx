@@ -1,5 +1,5 @@
 export const Application = () => {
     return (
-        <div>Hello, world!</div>
+        <div>HOLY SHIT, THIS IS REACT APPLICATION!!!</div>
     )
 };
